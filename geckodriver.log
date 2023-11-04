@@ -1,0 +1,650 @@
+1699058230812	geckodriver	INFO	Listening on 127.0.0.1:61687
+1699058233883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofiledHziUD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699058234180	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699058234227	Marionette	INFO	Listening on port 61700
+WebDriver BiDi listening on ws://127.0.0.1:61688
+Read port: 61700
+1699058234365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61688/devtools/browser/6e208798-ad06-4172-8f05-6e8882bdf189
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 543: Script terminated by timeout at:
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:115
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699058255635	Marionette	INFO	Stopped listening on port 61700
+Dynamically enable window occlusion 1
+1699058276411	geckodriver	INFO	Listening on 127.0.0.1:61761
+1699058279453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61762" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofilevgjAjs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699058279634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699058279673	Marionette	INFO	Listening on port 61770
+WebDriver BiDi listening on ws://127.0.0.1:61762
+Read port: 61770
+1699058279797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61762/devtools/browser/45cf13d7-ec4e-4c7c-96a6-8262b6f74dda
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+1699058309986	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699058320461	Marionette	INFO	Stopped listening on port 61770
+Dynamically enable window occlusion 1
+1699058368775	geckodriver	INFO	Listening on 127.0.0.1:61839
+1699058371821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofile9CoZOp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699058372001	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699058372042	Marionette	INFO	Listening on port 61847
+WebDriver BiDi listening on ws://127.0.0.1:61840
+Read port: 61847
+1699058372164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61840/devtools/browser/22ded63e-1000-4aa8-a538-8396ac45038b
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+1699058402497	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 543: Script terminated by timeout at:
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:408
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699058465220	Marionette	INFO	Stopped listening on port 61847
+Dynamically enable window occlusion 1
+1699058611358	geckodriver	INFO	Listening on 127.0.0.1:62100
+1699058614390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofileksHYVM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699058614567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699058614607	Marionette	INFO	Listening on port 62108
+WebDriver BiDi listening on ws://127.0.0.1:62101
+Read port: 62108
+1699058614803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62101/devtools/browser/b4f4bce5-87cb-412b-ba77-8afd9d396601
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699058644796	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699058645722	Marionette	INFO	Stopped listening on port 62108
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/devtools-devices getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1699058760895	geckodriver	INFO	Listening on 127.0.0.1:62329
+1699058763961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62330" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofilebe0A34"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699058764135	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699058764177	Marionette	INFO	Listening on port 62338
+WebDriver BiDi listening on ws://127.0.0.1:62330
+Read port: 62338
+1699058764370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62330/devtools/browser/7e700b96-e3fc-4322-9e4b-3751dc0acbd1
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:42
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699058783858	Marionette	INFO	Stopped listening on port 62338
+Dynamically enable window occlusion 1
+1699059033705	geckodriver	INFO	Listening on 127.0.0.1:62536
+1699059036747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofileHWyxzV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699059036939	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699059036978	Marionette	INFO	Listening on port 62544
+WebDriver BiDi listening on ws://127.0.0.1:62537
+Read port: 62544
+1699059037091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62537/devtools/browser/b2ab7191-b298-433d-badf-223d01503c47
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699059068649	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699059214422	Marionette	INFO	Stopped listening on port 62544
+Dynamically enable window occlusion 1
+ndow occlusion 0
+1699059107190	Marionette	INFO	Listening on port 62651
+WebDriver BiDi listening on ws://127.0.0.1:62639
+Read port: 62651
+1699059107306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62639/devtools/browser/fd931bc4-667a-49d7-8807-eb9544aeaaa3
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699059137408	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js, line 2: Script terminated by timeout at:
+S.fn[o]@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:87684
+c@https://www.marathonbet.ru/cdn/1-210/js/VirtualScrollingHelperClass.js:1:400
+s@https://www.marathonbet.ru/cdn/1-210/js/VirtualScrollingHelperClass.js:1:1724
+c@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:28447
+fireWith@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:29192
+Deferred/</s[t[0]]@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:31093
+i/<@https://www.marathonbet.ru/cdn/1-210/js/common/panbet.js:1:163792
+c@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:28447
+fireWith@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:29192
+Deferred/</s[t[0]]@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:31093
+t.ajax/<@https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js:1:29480
+c@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:28447
+fireWith@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:29192
+l@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:80176
+send/o/<@https://www.marathonbet.ru/cdn/1-210/js/jquery-3.6.4.min.js:2:82630
+
+1699059143417	Marionette	INFO	Stopped listening on port 62651
+Dynamically enable window occlusion 1
+1699059162199	geckodriver	INFO	Listening on 127.0.0.1:62745
+1699059165269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62746" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofile3UZQ4s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699059165445	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699059165486	Marionette	INFO	Listening on port 62754
+WebDriver BiDi listening on ws://127.0.0.1:62746
+Read port: 62754
+1699059165680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62746/devtools/browser/a7463929-8cfd-428a-abe6-b86d1f6e938d
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699059195822	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699059200230	Marionette	INFO	Stopped listening on port 62754
+Dynamically enable window occlusion 1
+1699059691288	geckodriver	INFO	Listening on 127.0.0.1:62992
+1699059694361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofilezYjkRC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699059694536	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699059694576	Marionette	INFO	Listening on port 63000
+WebDriver BiDi listening on ws://127.0.0.1:62993
+Read port: 63000
+1699059694688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62993/devtools/browser/2fec910c-884c-4fdc-9987-b1292fc90afa
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 543: Script terminated by timeout at:
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:115
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699059712052	Marionette	INFO	Stopped listening on port 63000
+Dynamically enable window occlusion 1
+1699059722016	geckodriver	INFO	Listening on 127.0.0.1:63054
+1699059725059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofileChnLof"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699059725233	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699059725274	Marionette	INFO	Listening on port 63062
+WebDriver BiDi listening on ws://127.0.0.1:63055
+Read port: 63062
+1699059725464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63055/devtools/browser/5195236e-ed0b-49ea-aa4b-8a466471e7ce
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699059737549	Marionette	INFO	Stopped listening on port 63062
+Dynamically enable window occlusion 1
+1699059762768	geckodriver	INFO	Listening on 127.0.0.1:63124
+1699059765813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofileiw9wak"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699059765987	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699059766027	Marionette	INFO	Listening on port 63133
+WebDriver BiDi listening on ws://127.0.0.1:63125
+Read port: 63133
+1699059766218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63125/devtools/browser/1e8b9eff-2cb9-4812-a1e4-88891a9366f8
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699059798544	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+1699059902260	geckodriver	INFO	Listening on 127.0.0.1:63255
+1699059905321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofileabeIsF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699059905501	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699059905544	Marionette	INFO	Listening on port 63263
+WebDriver BiDi listening on ws://127.0.0.1:63256
+Read port: 63263
+1699059905727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63256/devtools/browser/027e19ef-418d-48ab-8e7a-3094d70b6eb1
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699059935515	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699060053414	Marionette	INFO	Stopped listening on port 63263
+Dynamically enable window occlusion 1
+1699060246430	geckodriver	INFO	Listening on 127.0.0.1:63601
+1699060249497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofilePeKH7X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699060249700	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699060249753	Marionette	INFO	Listening on port 63610
+WebDriver BiDi listening on ws://127.0.0.1:63602
+Read port: 63610
+1699060249908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63602/devtools/browser/5853b72a-4094-4a62-aa79-a4f2f74c9a41
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:42
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699060257974	Marionette	INFO	Stopped listening on port 63610
+Dynamically enable window occlusion 1
+1699064499194	geckodriver	INFO	Listening on 127.0.0.1:55564
+1699064502242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofileO2jwcy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699064502420	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699064502460	Marionette	INFO	Listening on port 55574
+WebDriver BiDi listening on ws://127.0.0.1:55565
+Read port: 55574
+1699064502658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55565/devtools/browser/0e21a22b-7a47-4534-9618-2c665d1d46ef
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-XZBM86QPXQ&l=dataLayer&cx=c, line 160: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-XZBM86QPXQ&l=dataLayer&cx=c:160:17
+lA@https://www.googletagmanager.com/gtag/js?id=G-XZBM86QPXQ&l=dataLayer&cx=c:477:134
+mA/<@https://www.googletagmanager.com/gtag/js?id=G-XZBM86QPXQ&l=dataLayer&cx=c:477:111
+
+1699064518136	Marionette	INFO	Stopped listening on port 55574
+Dynamically enable window occlusion 1
+1699064530124	geckodriver	INFO	Listening on 127.0.0.1:55652
+1699064533170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofileZXtrZV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699064533352	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699064533393	Marionette	INFO	Listening on port 55663
+WebDriver BiDi listening on ws://127.0.0.1:55653
+Read port: 55663
+1699064533517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55653/devtools/browser/5ed32f51-3cf3-42f8-bf39-38e130e45384
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699064551232	Marionette	INFO	Stopped listening on port 55663
+Dynamically enable window occlusion 1
+1699065094675	geckodriver	INFO	Listening on 127.0.0.1:55867
+1699065097737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofile04PvBd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699065097983	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699065098041	Marionette	INFO	Listening on port 55878
+WebDriver BiDi listening on ws://127.0.0.1:55868
+Read port: 55878
+1699065098175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55868/devtools/browser/19500081-4f07-467d-bafa-33e5bbeccbe2
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699065128203	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699065811769	Marionette	INFO	Stopped listening on port 55878
+Dynamically enable window occlusion 1
+ndow occlusion 0
+1699065473884	Marionette	INFO	Listening on port 56144
+WebDriver BiDi listening on ws://127.0.0.1:56136
+Read port: 56144
+1699065474000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56136/devtools/browser/f71bbe8e-2576-4f6c-868e-1e44e880a753
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699065479002	Marionette	INFO	Stopped listening on port 56144
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 40: Script terminated by timeout at:
+An@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:40:304
+a.prototype.Y@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:326:197
+D/<@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:147:340
+Qq@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:144:169
+Lj<@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:211:394
+oa/</<@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:163:497
+gk@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:164:25
+oa/</<@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:163:497
+a.prototype.da@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:327:219
+D/<@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:147:340
+a.prototype.flush@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:326:478
+a.prototype.stop@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:324:225
+D/<@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:147:340
+a.prototype.stop@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:366:504
+b@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:372:205
+vu</<@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:372:253
+Pq/</</<@https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js:142:416
+
+Dynamically enable window occlusion 1
+1699065743288	geckodriver	INFO	Listening on 127.0.0.1:56379
+1699065746344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofileoCqyXd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699065746517	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699065746557	Marionette	INFO	Listening on port 56388
+Read port: 56388
+WebDriver BiDi listening on ws://127.0.0.1:56380
+1699065746594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56380/devtools/browser/42c0d1be-ba9e-48ef-97ec-d81db1ae5eca
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+1699065776690	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+1699065803810	Marionette	INFO	Stopped listening on port 56388
+Dynamically enable window occlusion 1
+1699066032613	geckodriver	INFO	Listening on 127.0.0.1:56673
+1699066035661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Stepan\\AppData\\Local\\Temp\\rust_mozprofilekSdnHx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699066035834	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699066035873	Marionette	INFO	Listening on port 56681
+WebDriver BiDi listening on ws://127.0.0.1:56674
+Read port: 56681
+1699066035968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56674/devtools/browser/189a8e54-f276-4d10-9bc3-900a18118435
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+1699066065927	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.marathonbet.ru/cdn/1-210/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.marathonbet.ru."
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c, line 545: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:545:89
+get@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:87
+aa.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9QL4QPDSGN&l=dataLayer&cx=c:543:412
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699066242309	Marionette	INFO	Stopped listening on port 56681
+Dynamically enable window occlusion 1
