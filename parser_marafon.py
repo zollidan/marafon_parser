@@ -1,17 +1,18 @@
-from asyncio import wait
 import datetime
-import operator
-import time
 from datetime import datetime
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 from array import *
 from datetime import date
-from time import sleep
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+
+
+# -----------------------code starts here-------------
+# exeptions:
+# -1 is cookie banner not found(and it's ok)
 
 driver = webdriver.Firefox()
 
@@ -167,6 +168,11 @@ for p in range(1):
 
         year_new = year.replace(',', '')
 
+        # ---------------------selenium part in if statement and two selenium variubles
+
+        coeffTwoFive_less_final_out = None
+        coeffTwoFive_more_final_out = None
+
         if coffi8_coffi2 != "2.5":
             driver.get(
                 'https://www.marathonbet.ru/su/betting/Football+-+11?page=' + str(p))
@@ -180,11 +186,7 @@ for p in range(1):
                     By.CLASS_NAME, "v-btn__content").click()
 
             except Exception as e:
-                print(" none ")
-            else:
-                print("Программа успешно отработала")
-            finally:
-                print("пупа пупа")
+                print(" no covered items so its OK ")
 
             game_class = driver.find_elements(By.CLASS_NAME, "sub-row")[k]
 
@@ -196,17 +198,56 @@ for p in range(1):
             link_array = str(driver.current_url).split("+")
             uniq_game_code = link_array[-1]
             id_to_find = 'shortcutLink_event' + uniq_game_code + 'type3'
-            print(id_to_find)
+            # print(id_to_find)
 
             clickTotals = driver.find_element(By.ID, id_to_find)
 
             clickTotals.click()
 
-            # Проблема в том, что ваш inputтег находится внутри iframe, вам нужно сначала переключиться на него:
+            html_from_page = driver.page_source
+            soup_after_click = BeautifulSoup(html_from_page, 'html.parser')
 
-            # frame = driver.find_element_by_xpath('//frame[@name="main"]')
-            # driver.switch_to.frame(frame)
-            # pass1 = driver.find_element_by_id("PASSFIELD1")
+            market_wrapper = soup_after_click.findAll(
+                'div', {'class': 'market-inline-block-table-wrapper'})
+
+            for name_fields in market_wrapper:
+                name_field = name_fields.find(
+                    'div', {'class': 'name-field'})
+                try:
+                    name_field_str = str(name_field.text)
+                    name_field_none_space = name_field_str.replace(" ", "")
+                    if name_field_none_space == 'Тоталголов':
+                        name_field_parent1 = name_field.parent
+                        name_field_parent2 = name_field_parent1.parent
+                        name_field_parent3 = name_field_parent2.parent
+                        name_field_parent4 = name_field_parent3.parent
+                        name_field_parent5 = name_field_parent4.parent
+
+                        prices_two_five = name_field_parent5.findAll(
+                            'div', {'class': 'coeff-link-2way'})
+
+                        techDicForPrices = []
+
+                        for prices in prices_two_five:
+                            if "(2.5)" in prices.text:
+                                techDicForPrices.append(prices.text)
+
+                        coeffTwoFive_less = str(techDicForPrices[0])
+                        coeffTwoFive_more = str(techDicForPrices[1])
+
+                        coeffTwoFive_less_upd = coeffTwoFive_less.replace(
+                            " ", "")
+                        coeffTwoFive_more_upd = coeffTwoFive_more.replace(
+                            " ", "")
+
+                        coeffTwoFive_less_final_out = coeffTwoFive_less_upd.replace(
+                            "(2.5)", "")
+                        coeffTwoFive_more_final_out = coeffTwoFive_more_upd.replace(
+                            "(2.5)", "")
+
+                        # print(name_field_none_space)
+                except Exception:
+                    print("")
 
             # time.sleep(5)
 
@@ -222,11 +263,12 @@ for p in range(1):
         dict.append(out_coffi5)
         dict.append(out_coffi6)
         dict.append(out_coffi7)
-
+        dict.append(coffi8_less)
+        dict.append(coffi8_more)
         # dict.append(out_coffi9)
         dict.append("2.5")
-        # dict.append(coffi_in_details_less)
-        # dict.append(coffi_in_details_more)
+        dict.append(coeffTwoFive_less_final_out)
+        dict.append(coeffTwoFive_more_final_out)
         # https://www.marathonbet.ru/su/betting/Football/Clubs.+International/UEFA+Champions+League/Group+Stage/Galatasaray+vs+Bayern+Munich+-+16853302?siteStyle=MULTIMARKETS&oddsType=Decimal&timeZone=Europe%2FMoscow&pageAction=default
         matrix.append(dict)
 
