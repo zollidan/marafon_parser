@@ -1,38 +1,30 @@
-import datetime
-from datetime import datetime
-from bs4 import BeautifulSoup
-import requests
-import pandas as pd
-from array import *
 from datetime import date
+from datetime import datetime
+from time import sleep
 
-from selenium import webdriver
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
+from selenium import webdriver
 
-
-# -----------------------code starts here-------------
+# -----------------------code starts here-----------------------
 # exeptions:
 # -1 is cookie banner not found(and it's ok)
 
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 
-
-def print_frame():
-    text = f'All rights reserved. © {date.today().year} LeFort Techs Inc.'
-    print(
-        f'|=============================================== {text} ===============================================|')
-
-
-print_frame()
+text = f'All rights reserved. © {date.today().year} LeFort Techs Inc.'
+print(f"{text:=^20}")
 
 matrix = []
 uniq_id_counter = 0
-for p in range(1):
+for p in range(100):
 
     r = requests.get(
         'https://www.marathonbet.ru/su/betting/Football+-+11?page=' + str(p))
 
-    print(str(r.status_code) + str(p) + "\n")
+    # print(str(r.status_code) + str(p) + "\n")
 
     soup = BeautifulSoup(r.text, "html.parser")
 
@@ -102,7 +94,7 @@ for p in range(1):
 
         coffi8_coffi2 = coffi8_coffi.replace('(', '').replace(')', '')
 
-        coffi8_more = str(coffi8_splited[1])
+        # coffi8_more = str(coffi8_splited[1])
 
         coffi9 = bg.findAll('td', {'data-market-type': 'TOTAL'})[1]
 
@@ -186,7 +178,7 @@ for p in range(1):
                     By.CLASS_NAME, "v-btn__content").click()
 
             except Exception as e:
-                print(" no covered items so its OK ")
+                ()
 
             game_class = driver.find_elements(By.CLASS_NAME, "sub-row")[k]
 
@@ -199,6 +191,8 @@ for p in range(1):
             uniq_game_code = link_array[-1]
             id_to_find = 'shortcutLink_event' + uniq_game_code + 'type3'
             # print(id_to_find)
+
+            sleep(1.5)
 
             clickTotals = driver.find_element(By.ID, id_to_find)
 
@@ -247,7 +241,8 @@ for p in range(1):
 
                         # print(name_field_none_space)
                 except Exception:
-                    print("")
+                    # print("")
+                    continue
 
             # time.sleep(5)
 
@@ -263,6 +258,7 @@ for p in range(1):
         dict.append(out_coffi5)
         dict.append(out_coffi6)
         dict.append(out_coffi7)
+        dict.append(coffi8_coffi2)
         dict.append(coffi8_less)
         dict.append(coffi8_more)
         # dict.append(out_coffi9)
@@ -276,7 +272,7 @@ df = pd.DataFrame(matrix)
 
 df.to_excel('marafon_data.xlsx', sheet_name='DATA', index=False)
 
-print(df)
+# print(df)
 
 driver.close()
 driver.quit()
